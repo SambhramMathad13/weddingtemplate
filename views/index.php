@@ -216,7 +216,6 @@
 
         </section>
         <!--  bride groom ends -->
-        <!-- Lorem, ipsum dolor sit amet consectetur adipisicing elit. Blanditiis accusamus provident in exercitationem? Voluptas amet quo ab voluptatibus? Fugiat ducimus in, sunt vero delectus recusandae provident libero nihil at consequatur. -->
 
 
  <!-- Our story start -->
@@ -256,7 +255,7 @@
 
         </section>
         <!--  our story ends -->
-
+<!-- Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsa velit iure necessitatibus minus blanditiis laudantium, consequuntur quia! Veritatis laborum excepturi neque aliquam impedit recusandae temporibus repudiandae repellat dignissimos, sit illo! -->
 
     <!-- Events start -->
     <section class="container mt-2" id="eventsSection">
